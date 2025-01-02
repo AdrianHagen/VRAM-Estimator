@@ -1,0 +1,13 @@
+TEXT = """
+Once upon a time, in a faraway kingdom, there lived a wise and kind king. His name was King Cedric, and he ruled the kingdom with fairness and compassion. The people loved him dearly for his just decisions and his love for the well-being of his subjects.
+
+One day, a messenger arrived at the palace with a troubling message. The neighboring kingdom had been struck by a terrible drought, and the people there were suffering greatly. King Cedric, being the compassionate ruler that he was, immediately called for a meeting of his advisors to discuss how they could help.
+
+The advisors were divided. Some suggested sending food and water to the neighboring kingdom, while others suggested sending gold to help them rebuild their infrastructure. King Cedric listened attentively to all of their ideas, weighing the pros and cons of each suggestion.
+
+After much discussion, King Cedric made his decision. He would send not only food and water but also skilled engineers and laborers to help rebuild the kingdom's infrastructure. He knew that this would not only help the people in the neighboring kingdom but also strengthen the bond between the two nations.
+
+As the days passed, King Cedric's decision proved to be a wise one. The neighboring kingdom flourished, and the bond between the two kingdoms grew stronger. King Cedric's people admired him even more for his selflessness and the positive impact he had on the world around him.
+
+And so, the story of King Cedric and his wise decision became a tale told for generations, reminding everyone of the power of compassion, leadership, and the importance of helping others in times of need.
+"""
